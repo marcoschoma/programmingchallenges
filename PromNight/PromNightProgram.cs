@@ -32,7 +32,6 @@ namespace PromNight
                 else
                     NO();
             }
-            //Console.ReadKey();
         }
 
         private static bool Calcular(int[] boys, int[] girls, int M, int N)
