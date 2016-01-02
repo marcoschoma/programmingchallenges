@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace JumboMumbo
 {
-    class Program
+    class JumboMumboProgram
     {
         const decimal startRate = 2;
 
